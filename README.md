@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pedrokabroka
 - 👀 I’m interested in computer 
-- 🌱 I’m currently learning Construct 2
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning javascript and Python
 - 📫 How to reach me on instagram @pedrokabroka
 
 <!---
